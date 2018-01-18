@@ -16,5 +16,8 @@ public class CustomerServiceImpl implements CustomerService {
 		//("customerList",cdao.selectCustomerList())
 		//     key 값,         밸류 값(!!!!!!!!)
 		//customerList라는 이름으로 key 값을 Attribute해주는 것(!!!!!!우왕)
+		
+		
+		//오름차순(asc), 내림차순(dsc)은 이 클래스에서 했던 것 같다. (선생님이)
 	}
 }
